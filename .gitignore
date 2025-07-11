@@ -1,6 +1,6 @@
 # Composer
 /vendor/
-/composer.lock # Generally recommended to commit, but for now we'll ignore to simplify
+/composer.lock
 
 # Logs
 /src/Logs/
