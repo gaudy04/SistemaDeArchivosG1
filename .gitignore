@@ -1,0 +1,25 @@
+# Composer
+/vendor/
+/composer.lock # Generally recommended to commit, but for now we'll ignore to simplify
+
+# Logs
+/src/Logs/
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# IDE-specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# macOS specific
+.DS_Store
+
+# OS-specific temp files
+Thumbs.db
