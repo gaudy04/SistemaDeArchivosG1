@@ -1,0 +1,26 @@
+
+[05-Jul-2025 14:54:49 America/Tegucigalpa] Conexión exitosa a la base de datos.
+[05-Jul-2025 14:55:09 America/Tegucigalpa] Conexión exitosa a la base de datos.
+[05-Jul-2025 14:58:52 America/Tegucigalpa] PHP Warning:  Undefined variable $peyload in C:\xampp\htdocs\Proyecto\src\Config\Security.php on line 33
+[05-Jul-2025 14:58:52 America/Tegucigalpa] Conexión exitosa a la base de datos.
+[05-Jul-2025 15:01:07 America/Tegucigalpa] Conexión exitosa a la base de datos.
+[05-Jul-2025 15:01:19 America/Tegucigalpa] Conexión exitosa a la base de datos.
+[05-Jul-2025 15:01:20 America/Tegucigalpa] Conexión exitosa a la base de datos.
+[09-Jul-2025 01:23:43 America/Tegucigalpa] Conexión exitosa a la base de datos.
+[09-Jul-2025 01:25:22 America/Tegucigalpa] Conexión exitosa a la base de datos.
+[09-Jul-2025 01:26:59 America/Tegucigalpa] Conexión exitosa a la base de datos.
+[09-Jul-2025 01:31:31 America/Tegucigalpa] Conexión exitosa a la base de datos.
+[09-Jul-2025 01:43:05 America/Tegucigalpa] Conexión exitosa a la base de datos.
+[09-Jul-2025 01:45:50 America/Tegucigalpa] Conexión exitosa a la base de datos.
+[09-Jul-2025 01:55:26 America/Tegucigalpa] Conexión exitosa a la base de datos.
+[09-Jul-2025 01:56:48 America/Tegucigalpa] Conexión exitosa a la base de datos.
+[09-Jul-2025 01:58:49 America/Tegucigalpa] Conexión exitosa a la base de datos.
+[09-Jul-2025 02:00:41 America/Tegucigalpa] Conexión exitosa a la base de datos.
+[09-Jul-2025 02:01:53 America/Tegucigalpa] Conexión exitosa a la base de datos.
+[09-Jul-2025 02:11:21 America/Tegucigalpa] Conexión exitosa a la base de datos.
+[09-Jul-2025 02:17:21 America/Tegucigalpa] Conexión exitosa a la base de datos.
+[09-Jul-2025 08:23:06 America/Tegucigalpa] esto es una prueba de error
+[09-Jul-2025 12:19:50 America/Tegucigalpa] Conexión exitosa a la base de datos.
+[09-Jul-2025 12:40:41 America/Tegucigalpa] Conexión exitosa a la base de datos.
+[11-Jul-2025 14:26:47 America/Tegucigalpa] Conexión exitosa a la base de datos.
+[11-Jul-2025 14:26:47 America/Tegucigalpa] Error de base de datos en login: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bd_lp4_grupo1.usuario' doesn't exist

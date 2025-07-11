@@ -1,0 +1,19 @@
+
+# Activa el motor de reescritura
+RewriteEngine On
+
+# Previene el listado de directorios
+Options -Indexes
+
+# Protege el archivo .htaccess de accesos externos
+<Files ".htaccess">
+    Require all denied
+</Files>
+
+# Asocia la extensión .nas a PHP (si el servidor lo permite)
+AddType application/x-httpd-php .nas
+
+# Reescribe URLs amigables para pasar parámetros al index.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([0-9a-zA-Z\-_@./]+)$ index.php?route=$1 [QSA,L]
